@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27bd353d.css",
+    "main.js": "/static/js/main.dc491d44.js",
+    "static/media/HeaderPhoto.webp": "/static/media/HeaderPhoto.536d9cff1716731dd4f7.webp",
+    "static/media/Sadek.webp": "/static/media/Sadek.7071f74b2a885a836e20.webp",
+    "static/media/CoursePhoto.webp": "/static/media/CoursePhoto.b5705caa95624200f50c.webp",
+    "static/media/Ashiqul.webp": "/static/media/Ashiqul.e4f3380d0f35e2bbbc74.webp",
+    "static/media/Dedicated.webp": "/static/media/Dedicated.3bb36178d1e3463264c6.webp",
+    "static/media/LiveClass.webp": "/static/media/LiveClass.d9521b071175e9ef7be6.webp",
+    "static/media/materials.webp": "/static/media/materials.d8b58e9b1846518c90a3.webp",
+    "static/media/Arifus.webp": "/static/media/Arifus.c844c325401f75f75e5a.webp",
+    "static/media/DevelopmentPhoto.webp": "/static/media/DevelopmentPhoto.c83c0628a93557bba098.webp",
+    "index.html": "/index.html",
+    "main.27bd353d.css.map": "/static/css/main.27bd353d.css.map",
+    "main.dc491d44.js.map": "/static/js/main.dc491d44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27bd353d.css",
+    "static/js/main.dc491d44.js"
+  ]
+}
